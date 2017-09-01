@@ -1,0 +1,139 @@
+<resources>
+    <string name="banner_ad_unit_TESTE" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="app_name">Guia de Sorocaba - Vai pra onde?</string>
+
+    <string name="jardim_botanico_text">
+        "O Jardim Botânico Irmãos Villas Bôas tem um terreno de cerca de 220 mil m² e foi "
+        "construído no Jardim Dois Corações, utilizando madeira legalizada, uso e reuso de água "
+        "e energia solar, além de outros conceitos sustentáveis.\n"
+        "A intenção da criação do jardim é o estudo e pesquisa da flora da região, além de "
+        "desenvolver a consciência ambiental e lazer da cidade de Sorocaba.\n"
+        "O Jardim inclui como atrações principais o lago, viveiro e Palacete de Cristal inspirado "
+        "nos jardins botânicos de Curitiba e Petrópolis.\n"
+
+    </string>
+    <string name="paco_text">
+        "O Palácio dos Tropeiros, além de sua funcionalidade administrativa (é sede da prefeitura municipal de Sorocaba),"
+        " constitui ponto turístico e patrimônio histórico de Sorocaba.\n\n"
+        "O prédio possui jardim suspenso e elevador panorâmico. Configura área de lazer e é cercado"
+        " por um lago artificial com chafariz (habitado por peixes como carpas, tilápias e aves aquáticas"
+        " como cisnes, gansos e patos), jardim com gramado, flores, arbustos e arborização,"
+        " pista de caminhada, parque infantil com jardins. Situa-se numa região alta permitindo se "
+        "ter uma vista panorâmica privilegiada para a cidade e para o Morro de Ipanema. \n\n"
+        "No local há também a pista de caminhada Odilon Araújo (em saibro e cimento), com um percurso de 1.640m."
+        " No mês de agosto ocorre o Festival das Pipas."
+    </string>
+    <string name="biblioteca_text">
+        "A Biblioteca Municipal de Sorocaba Jorge Guilherme Senger situa-se no Conjunto Arquitetônico "
+        "do Alto da Boa Vista, ao lado do Palácio dos Tropeiros, Paço Municipal de Sorocaba.\n\n"
+
+        "Com 3 mil m² de área construída e arquitetura moderna, a Biblioteca Municipal de Sorocaba "
+        "Jorge Guilherme Senger, que foi inaugurada em dezembro de 2004, conta com acervo de mais "
+        "de 55 mil volumes, mas tem capacidade para abrigar até 345 mil, e 64 mil associados.\n\n "
+
+        "Além de internet gratuita, conta ainda com um espaço funcional para a prática da leitura e "
+        "pesquisa, elementos fundamentais para a formação escolar e cultural. "
+        "Há também Biblioteca Braille, com mais 1663 volumes e ainda 1200 títulos de livros "
+        "falados e gravados em fita cassete."
+
+    </string>
+    <string name="large_text">
+        "Sorocaba é um município brasileiro da Região Metropolitana de Sorocaba, da Mesorregião "
+        "Macro Metropolitana Paulista e da Microrregião de Sorocaba, no estado de São Paulo. "
+        "É a quarta mais populosa do interior de São Paulo (precedida por Campinas, São José dos "
+        "Campos e Ribeirão Preto) e a mais populosa da região sul paulista, sendo, portanto, "
+        "uma capital regional. Possui uma área de 450,38 km².\n\n"
+        "A cidade localiza-se a 87 km de distância da capital do Estado. As principais rodovias "
+        "são a Castelo Branco (SP-280) e Raposo Tavares (SP-270). É atravessada pelo Rio Sorocaba, "
+        "afluente da margem esquerda do Rio Tietê.\n\n"
+        "Sorocaba apresenta um clima subtropical, temperado. Durante o verão, os dias são bastante "
+        "quentes e as noites as temperaturas são suaves. O inverno é ameno, sendo Julho o mês mais "
+        "frio e o mais quente Fevereiro.\n\n"
+        "A cidade é considerada uma das mais sustentáveis do Brasil, e conta com 21 parques municipais.\n\n"
+
+        "A Região Metropolitana de Sorocaba é composta por 26 municípios que somam aproximadamente "
+        "2,06 milhões de habitantes, sendo a quarta maior do estado, "
+        "depois da Região Metropolitana de São Paulo, da Região Metropolitana de Campinas e da "
+        "Região Metropolitana do Vale do Paraíba e Litoral Norte.\n\n"
+
+        "O Aeroporto de Sorocaba é considerado o aeroporto executivo mais movimentado da América do Sul, recebendo mais de 200 "
+        "voos por dia. \n\n"
+
+        "O município conta com cento e seis quilômetros de ciclovias criadas nas "
+        "avenidas principais da cidade, sendo possível atravessá-la somente utilizando-se bicicletas "
+        "como meio de transporte. Complementando este projeto, Sorocaba conta desde 2012 com um "
+        "sistema de bicicletas públicas, denominado Integrabike, semelhante ao das cidades europeias "
+        "de Barcelona, Lisboa e Paris. Possui a segunda maior malha cicloviária do Brasil, "
+        "atrás apenas do Rio de Janeiro.\n\n"
+
+        "A cidade é um importante polo industrial do estado de São Paulo e do Brasil, sendo que "
+        "sua produção industrial chega a mais de 120 países, atingindo um PIB acima dos R$ 32 bilhões,"
+        " o décimo nono maior do país. As principais bases de sua economia são os setores de indústria,"
+        " comércio e serviços, com mais 22 mil empresas instaladas, sendo mais de duas mil delas "
+        "indústrias. \n\nAs áreas produtivas de Sorocaba e Campinas foram as principais responsáveis "
+        "pela descentralização industrial da região metropolitana de São Paulo entre os anos de 2000 a 2010.\n\n\n\n\n""
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling_attractions">ScrollingAttractionsActivity</string>
+    <string name="zoologico_text">
+        "O Parque Zoológico Municipal Quinzinho de Barros – Zoológico Municipal de Sorocaba "
+        "é um jardim zoológico situado no município de Sorocaba, estado de São Paulo, no Brasil, "
+        "sendo considerado o segundo zoológico do Brasil em número de espécies.\n\n"
+        "Inserido na Vila Hortência, dentro da região leste da cidade de Sorocaba, em uma área de "
+        "cerca de 130.000 m², tem em seu interior uma faixa de mata atlântica de transição em "
+        "estágio secundário, um lago, o Museu Histórico Sorocabano e abrigava em 1992, "
+        "segundo levantamento feito pela Sociedade de Zoológicos do Brasil, um total de 1487 "
+        "espécimes de 353 espécies entre mamíferos, aves e répteis, sendo 70% pertencentes à "
+        "fauna brasileira, tendo dentre elas 36 espécies ameaçadas de extinção.\n\n"
+        "Com a classificação “A”, a mais alta outorgada pelo IBAMA, o zoológico é referência na "
+        "América Latina no que se refere a lazer, pesquisa, preservação e educação ambiental e "
+        "recebeu em 2007 mais de um milhão de visitantes, dentre eles estudantes de 81 cidades do estado de São Paulo."
+    </string>
+    <string name="agua_vermelha_text">
+        "Localiza-se na rua Romênia, 150, travessa da Av. Londres, próximo à Av. Américo de Carvalho, no Jd. Europa.\n "
+        "Possui 20 mil metros quadrados de área verde com três lagos, palmeiras e árvores frutíferas, "
+        "sendo um excelente espaço de lazer. Inclui playground, aquário e viveiro de mudas."
+    </string>
+
+    <string name="ouro_fino_text">
+        "Uma área de fundo de vale com 96 mil m², uma riqueza natural é sua mata ciliar. "
+        "Possui playground, campo de futebol e mesas para piqueniques.\n"
+        "Situa-se à Rua Alexandre Caldini, 110, no Parque Ouro Fino."
+    </string>
+
+    <string name="biquinha_text">
+        "Localiza-se na Av. Comendador Pereira Inácio 1112, Jd. Emilia. O Local com uma topografia "
+        "privilegiada por fazer parte de uma bacia hidrográfica com um lago e várias quedas de água,"
+        " foi criado em 1976.\n"
+        "Possui área de 27.766,675 m². Várias mudas de plantas de várias regiões brasileiras foram "
+        "plantadas para o enriquecimento da paisagem e servindo como atrativo para diversas espécies de animais.\n"
+        "Possui área apropriada para lazer, quiosques com churrasqueiras, local para piqueniques, "
+        "playground e um delicado orquidário. Há no parque o “Jardim dos Beija-flores”, que abriga "
+        "pequenas mudas de árvores e arbustos identificados com placas com o nome popular e o nome científico."
+    </string>
+    <string name="chico_mendes_text">
+        "Bastante apropriado para a prática de esportes e caminhada, o parque é uma área verde com "
+        "uma cobertura vegetal predominante de eucaliptos e mata ciliar preservada, com 145 mil "
+        "metros quadrados.\n"
+
+        "Podem ser observados vários animais, como araras, pavões, patos e gansos. Foi criado em 22 "
+        "de dezembro de 1977 e é apropriado para a realização de atividades educativas e eventos como "
+        "a Expo-verde, feira de plantas e flores que conta com exposição de pesquisas realizados pelas "
+        "Universidades da região. Situa-se à Av. Três de Março, 1.025, no Alto da Boa Vista."
+    </string>
+    <string name="parque_campolim_text">
+        "Situado na área central da Av. Antônio Carlos Comitre, no Parque Campolim. "
+        "Possui área de 96.000m² com espelho d'água, três pistas de caminhada, com 1.500m, 1.900m e 2.600m, "
+        "ilha de alongamento, equipamentos de exercícios."
+    </string>
+
+    <string name="kasatu_maru">
+        "Jardim japonês situado no cruzamento das avenidas Antônio Carlos Comitre e Washington Luiz. "
+        "Foi construído em homenagem aos 100 anos da imigração japonesa no Brasil.\n"
+
+        "Possui portal Torii, globo terrestre metálico, espelho d'água, ponte Taiko Bashi, deque de madeira, "
+        "pista de caminhada, área verde, cerejeiras e arbustos de espécies típicas de jardins japoneses, "
+        "sistema de iluminação com luminárias de estilo Suzuranto, três luminárias do tipo Toro e cascata."
+    </string>
+
+</resources>
