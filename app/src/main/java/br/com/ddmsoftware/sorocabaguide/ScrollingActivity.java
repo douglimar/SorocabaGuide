@@ -25,7 +25,7 @@ public class ScrollingActivity extends AppCompatActivity {
         btnAttractions.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(getApplicationContext(),ScrollingAttractionsActivity.class);
+                Intent intent = new Intent(getApplicationContext(),MiddleActivity.class);
                 startActivity(intent);
             }
         });

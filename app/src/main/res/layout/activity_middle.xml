@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="br.com.ddmsoftware.sorocabaguide.MiddleActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnParques"
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:layout_weight="1"
+            android:drawableTop="@mipmap/ic_launcher_round"
+            android:text="Parques" />
+
+        <Button
+            android:id="@+id/btnHistoricalMonunments"
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:layout_weight="1"
+            android:drawableTop="@mipmap/ic_launcher_round"
+            android:text="Monumentos"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnOutros"
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:layout_weight="1"
+            android:drawableTop="@mipmap/ic_launcher_round"
+            android:text="Compras"/>
+
+        <Button
+            android:id="@+id/btnHistoricalPlaces"
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:layout_weight="1"
+            android:drawableTop="@mipmap/ic_launcher_round"
+            android:text="Locais Históricos"/>
+    </LinearLayout>
+</LinearLayout>
