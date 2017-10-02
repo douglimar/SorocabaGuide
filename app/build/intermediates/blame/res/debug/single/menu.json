@@ -1,18 +1,26 @@
 [
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MyApplication5\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_scrolling_attractions.xml",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MyApplication5\\app\\src\\main\\res\\menu\\menu_scrolling_attractions.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/C:\\Users\\dmoraes\\AndroidStudioProjects\\MyApplication5\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_scrolling.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/C:\\Users\\dmoraes\\AndroidStudioProjects\\MyApplication5\\app\\src\\main\\res\\menu\\menu_scrolling.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MyApplication5\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_scrolling.xml",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MyApplication5\\app\\src\\main\\res\\menu\\menu_scrolling.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/C:\\Users\\dmoraes\\AndroidStudioProjects\\SorocabaGuide\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_scrolling_attractions.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/C:\\Users\\dmoraes\\AndroidStudioProjects\\SorocabaGuide\\app\\src\\main\\res\\menu\\menu_scrolling_attractions.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\SorocabaGuide\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_scrolling.xml",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\SorocabaGuide\\app\\src\\main\\res\\menu\\menu_scrolling.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/C:\\Users\\dmoraes\\AndroidStudioProjects\\SorocabaGuide\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_scrolling.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/C:\\Users\\dmoraes\\AndroidStudioProjects\\SorocabaGuide\\app\\src\\main\\res\\menu\\menu_scrolling.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\SorocabaGuide\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_scrolling_attractions.xml",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\SorocabaGuide\\app\\src\\main\\res\\menu\\menu_scrolling_attractions.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/app/build/intermediates/res/merged/debug/menu/menu_scrolling_attractions.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/app/src/main/res/menu/menu_scrolling_attractions.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/app/build/intermediates/res/merged/debug/menu/menu_scrolling.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/app/src/main/res/menu/menu_scrolling.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/C:\\Users\\dmoraes\\AndroidStudioProjects\\MyApplication5\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_scrolling_attractions.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/C:\\Users\\dmoraes\\AndroidStudioProjects\\MyApplication5\\app\\src\\main\\res\\menu\\menu_scrolling_attractions.xml"
     }
 ]

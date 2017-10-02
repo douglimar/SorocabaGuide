@@ -1,18 +1,26 @@
 [
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\SorocabaGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\SorocabaGuide\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/C:\\Users\\dmoraes\\AndroidStudioProjects\\MyApplication5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/C:\\Users\\dmoraes\\AndroidStudioProjects\\MyApplication5\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\SorocabaGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\SorocabaGuide\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MyApplication5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MyApplication5\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/C:\\Users\\dmoraes\\AndroidStudioProjects\\MyApplication5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/C:\\Users\\dmoraes\\AndroidStudioProjects\\MyApplication5\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MyApplication5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MyApplication5\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/C:\\Users\\dmoraes\\AndroidStudioProjects\\SorocabaGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/C:\\Users\\dmoraes\\AndroidStudioProjects\\SorocabaGuide\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/C:\\Users\\dmoraes\\AndroidStudioProjects\\SorocabaGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/C:\\Users\\dmoraes\\AndroidStudioProjects\\SorocabaGuide\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     }
 ]

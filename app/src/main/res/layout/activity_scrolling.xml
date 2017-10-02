@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="@dimen/app_bar_height"
         android:fitsSystemWindows="true"
-        android:background="@drawable/sorocaba2"
+        android:background="@drawable/sorocaba"
         android:theme="@style/AppTheme.AppBarOverlay">
 
         <android.support.design.widget.CollapsingToolbarLayout
@@ -58,18 +58,9 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@android:color/holo_blue_dark"
-            android:text="Pontos Turísticos" />
+            android:text="Pontos Turísticos"
+            android:textColor="@color/cardview_light_background" />
 
-        <Button
-            android:id="@+id/button"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="bottom|center_horizontal"
-            android:layout_weight="1"
-            android:background="@android:color/holo_blue_light"
-            android:text="O que fazer"
-            app:layout_anchor="@+id/include"
-            app:layout_anchorGravity="center_vertical|center_horizontal" />
     </LinearLayout>
 
 </android.support.design.widget.CoordinatorLayout>

@@ -1,4 +1,7 @@
-#Fri Sep 01 15:07:47 BRT 2017
-base.0=C\:\\Users\\dmoraes\\AndroidStudioProjects\\SorocabaGuide\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=C\:\\Users\\dmoraes\\AndroidStudioProjects\\SorocabaGuide\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+#Sat Sep 30 17:51:53 BRT 2017
+base.0=/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f0f968b730332525d5eb1e28bee5434f97fd9d01
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_03de32edc1b65f0f5b88dce7af88b200be4ff8bb/classes.dex
+base.1=/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_03de32edc1b65f0f5b88dce7af88b200be4ff8bb
+file.0=/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f0f968b730332525d5eb1e28bee5434f97fd9d01/classes.dex
